@@ -20,7 +20,7 @@
    - Validation rules for registration include:  
      - Gender selection: Male/Female.  
      - Minimum of 3 hobbies.  
-     - Instagram username: Must follow the format `http://www.instagram.com/username`.  
+     - Instagram username: Must follow the format `https://www.instagram.com/username`.  
      - Mobile number: Digits only.  
    - Randomized registration fee between 100,000 and 125,000.  
 
