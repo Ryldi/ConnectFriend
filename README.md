@@ -62,3 +62,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/Ryldi/ConnectFriend.git
    cd ConnectFriend
+   composer install
+   php artisan migrate
+   php artisan db:seed
+   php artisan serve
