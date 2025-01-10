@@ -32,7 +32,7 @@
 
                 <div class="mb-3">
                     <label for="instagram" class="form-label">Instagram</label>
-                    <input type="text" class="form-control"  name="instagram" id="instagram" placeholder="http://www.instagram.com/username" value="{{old('instagram')}}">
+                    <input type="text" class="form-control"  name="instagram" id="instagram" placeholder="https://www.instagram.com/username" value="{{old('instagram')}}">
                     @error('instagram')
                         <div class="text-danger mt-1">{{ $message }}</div>
                     @enderror

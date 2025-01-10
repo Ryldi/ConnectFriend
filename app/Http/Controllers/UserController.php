@@ -28,7 +28,7 @@ class UserController extends Controller
             ],
             [
                 'hobby.min' => 'You must select at least 3 hobbies.',
-                'instagram.regex' => 'URL must be http://www.instagram.com/username',
+                'instagram.regex' => 'URL must be https://www.instagram.com/username',
             ]
         );
 
